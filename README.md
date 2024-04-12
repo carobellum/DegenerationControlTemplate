@@ -4,13 +4,6 @@ Contains template image derived from patients with cerebellar degeneration and h
 ## Dataset information
 The template available in this repository were derived from structural MRI scans of 40 patients diagnosed with pure cerebellar cortical degeneration and 40 age and sex-matched neurologically healthy individuals.
 
-Functional data is missing for (subject, timepoint):
-- sub-57, post
-- sub-70, pre
-- sub-70, post
-
-Structural data was acquired from all subjects.
-
 ## Template information
 ![Template created from 40 patients with cerebellar degeneration and 40 healthy subjects](img/template.png)
 
