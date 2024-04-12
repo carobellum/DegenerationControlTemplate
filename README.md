@@ -23,3 +23,8 @@ A study-specific template is included into this repository along with associated
 | DeCon_template_cerebellar_mask.nii.gz | DeCon template cerebellar mask                             |
 | DeCon_to_MNI_warp.nii.gz              | DeCon template non-linear warp to MNI152NLin6Asym template |
 | MNI_to_DeCon_warp.nii.gz              | MNI152NLin6Asym template non-linear warp to DeCon template |
+
+
+## Template validation
+
+The template significantly reduces the spatial spread of anatomical landmarks in cerebellar patients and controls compared to existing templates. For the results and the code to reproduce the results, please see the [DegenerationConnectivity](https://github.com/carobellum/DegenerationConnectivity/tree/main) repository.
