@@ -2,7 +2,7 @@
 Contains template image derived from patients with cerebellar degeneration and healthy controls and associated files.
 
 ## Dataset information
-The data files available in this repository were derived from MRI scans of 40 patients diagnosed with pure cerebellar cortical degeneration and 40 age and sex-matched neurologically healthy individuals. All individuals participated a five-day motor training. On the days before and after training, participants underwent a structural MRI scan and a functional resting-state scan in addition to a motor assessment. 
+The template available in this repository were derived from structural MRI scans of 40 patients diagnosed with pure cerebellar cortical degeneration and 40 age and sex-matched neurologically healthy individuals.
 
 Functional data is missing for (subject, timepoint):
 - sub-57, post
