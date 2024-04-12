@@ -1,10 +1,9 @@
 # DegenerationControlTemplate
-Contains template image derived from patients with cerebellar degeneration and healthy controls and associated files.
-
-## Dataset information
-The template available in this repository were derived from structural MRI scans of 40 patients diagnosed with pure cerebellar cortical degeneration and 40 age and sex-matched neurologically healthy individuals.
+This repository contains the template image derived from patients with cerebellar degeneration and healthy controls and associated files.
 
 ## Template information
+The template available in this repository were derived from structural MRI scans of 40 patients diagnosed with pure cerebellar cortical degeneration and 40 age and sex-matched neurologically healthy individuals.
+
 ![Template created from 40 patients with cerebellar degeneration and 40 healthy subjects](img/template.png)
 
 A study-specific template is included into this repository along with associated files:
